@@ -1,0 +1,10 @@
+#Graph mode 0 for adjacency matrix and 1 for adjacency list
+0
+#number of nodes
+5
+#edges
+0 3 7 4 2
+3 0 3 4 6
+7 3 0 8 6
+4 4 8 0 5
+2 6 6 5 0
